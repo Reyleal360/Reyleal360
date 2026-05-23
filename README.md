@@ -23,7 +23,7 @@
 ¡Hola! Soy **Reinaldo Leal** (alias **Reyleal360**). Me apasiona la convergencia entre el **desarrollo de software** y la **ingeniería de hardware**. Trabajo construyendo aplicaciones web dinámicas y eficientes (Frontend & Backend), y al mismo tiempo doy vida a proyectos físicos mediante robótica, IoT y automatización. 
 
 * 🔭 Actualmente me enfoco en crear **Single Page Applications (SPAs)** robustas, interconectar hardware mediante **APIs REST** personalizadas y optimizar procesos con metodologías **Low Code** y scripts de automatización.
-* 🤖 Mi pasión secundaria es la robótica autónoma y teleoperada, trabajando con placas como **Raspberry Pi** y **Arduino** para el control de motores, servos y transmisión de video en tiempo real.
+* 🤖 Mi pasión secundaria es la robótica autónoma y teleoperada, además del mantenimiento de equipos y sistemas de transmisión de video en tiempo real.
 * ⚡ Disfruto resolver retos técnicos complejos uniendo la potencia de lenguajes modernos con la física del hardware interactivo.
 
 ---
@@ -58,10 +58,8 @@
 
 ### 🤖 Hardware, IoT & Robótica
 <p align="left">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Mantenimiento_de_Equipos-007ACC?style=for-the-badge&logo=ifixit&logoColor=white" alt="Mantenimiento de Equipos" />
   <img src="https://img.shields.io/badge/Rob%C3%B3tica-E040FB?style=for-the-badge&logo=android&logoColor=white" alt="Robótica" />
-  <img src="https://img.shields.io/badge/Control_Motores-00E676?style=for-the-badge&logo=speedtest&logoColor=black" alt="Control Motores" />
   <img src="https://img.shields.io/badge/Streaming_Video-FF1744?style=for-the-badge&logo=youtube&logoColor=white" alt="Transmisión Video" />
 </p>
 
