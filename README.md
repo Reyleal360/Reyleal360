@@ -105,14 +105,14 @@
 ¡Siempre estoy dispuesto a colaborar en proyectos emocionantes y a hablar de tecnología!
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/reinaldoleal1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:rexleal360@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://discord.com/users/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  <a href="https://discord.com/users/reinaldo_2006" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-reinaldo__2006-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
 </p>
 
