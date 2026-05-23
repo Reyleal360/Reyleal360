@@ -115,15 +115,3 @@
     <img src="https://img.shields.io/badge/Discord-reinaldo__2006-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
 </p>
-
----
-
-## 💡 Frase Tecnológica
-
-> "El código es la ley del software; la física es la ley del hardware. La robótica es el arte de hacer que el software doblegue a la física." 🦾✨
-
----
-
-<div align="center">
-  <sub>Diseñado con ❤️ y espíritu Cyberpunk por Reinaldo Leal (Reyleal360)</sub>
-</div>
