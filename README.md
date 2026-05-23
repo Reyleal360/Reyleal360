@@ -1,8 +1,5 @@
 <div align="center">
   
-  <!-- Banner Cyberpunk -->
-  <img src="./github_banner.png" alt="Reinaldo Leal Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
-
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&background=00000000&center=true&vCenter=true&width=500&lines=Hola!+Soy+Reinaldo+Leal;Desarrollador+Full+Stack;Apasionado+por+la+Rob%C3%B3tica+e+IoT;Especialista+en+Automatizaci%C3%B3n" alt="Typing SVG" />
