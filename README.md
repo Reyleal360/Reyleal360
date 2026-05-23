@@ -23,7 +23,6 @@
 ¡Hola! Soy **Reinaldo Leal** (alias **Reyleal360**). Me apasiona la convergencia entre el **desarrollo de software** y la **ingeniería de hardware**. Trabajo construyendo aplicaciones web dinámicas y eficientes (Frontend & Backend), y al mismo tiempo doy vida a proyectos físicos mediante robótica, IoT y automatización. 
 
 * 🔭 Actualmente me enfoco en crear **Single Page Applications (SPAs)** robustas, interconectar hardware mediante **APIs REST** personalizadas y optimizar procesos con metodologías **Low Code** y scripts de automatización.
-* 🤖 Mi pasión secundaria es la robótica autónoma y teleoperada, además del mantenimiento de equipos y sistemas de transmisión de video en tiempo real.
 * ⚡ Disfruto resolver retos técnicos complejos uniendo la potencia de lenguajes modernos con la física del hardware interactivo.
 
 ---
