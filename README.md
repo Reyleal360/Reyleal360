@@ -72,43 +72,6 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3>🛸 Sistema de Teleoperación y Video Transmisión</h3>
-      <p>Un sistema integrado que permite la transmisión de video en tiempo real de baja latencia desde una Raspberry Pi hacia una interfaz web responsiva (React SPA) con panel de control para servomotores.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
-      </p>
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJVPQ/giphy.gif" width="100%" style="border-radius: 8px;" alt="Coding GIF">
-    </td>
-  </tr>
-  <tr>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B5dG9ycnN5dzg1dmF4dWN3Y3ExaDVkZm5ic3J4djM4ZWZzOHJ4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9gYYIENQtGT/giphy.gif" width="100%" style="border-radius: 8px;" alt="Robotics GUI GIF">
-    </td>
-    <td width="60%">
-      <h3>🤖 Controlador IoT Industrial de Bajo Costo</h3>
-      <p>Plataforma para el monitoreo y control de motores de paso y servos en base a comandos transmitidos por una API REST construida en Node.js, interactuando directamente con placas Arduino y sensores industriales.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
