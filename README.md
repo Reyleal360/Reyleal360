@@ -91,12 +91,6 @@
 
 ---
 
-## 🎯 Objetivos como Desarrollador
-
-- [ ] 🚀 Seguir innovando en la convergencia de Software (Full Stack) y Hardware (Robótica, IoT).
-- [ ] 🧠 Desarrollar automatizaciones avanzadas utilizando herramientas de desarrollo ágil y Low Code.
-- [ ] 🤖 Expandir conocimientos en sistemas de transmisión de video de latencia ultra baja para teleoperación robótica.
-- [ ] 📈 Colaborar en proyectos de código abierto (Open Source) que impacten positivamente a la comunidad tecnológica.
 
 ---
 
