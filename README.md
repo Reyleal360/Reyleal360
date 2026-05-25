@@ -55,12 +55,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
-### 🤖 Hardware, IoT & Robótica
-<p align="left">
-  <img src="https://img.shields.io/badge/Mantenimiento_de_Equipos-007ACC?style=for-the-badge&logo=ifixit&logoColor=white" alt="Mantenimiento de Equipos" />
-  <img src="https://img.shields.io/badge/Rob%C3%B3tica-E040FB?style=for-the-badge&logo=android&logoColor=white" alt="Robótica" />
-  <img src="https://img.shields.io/badge/Streaming_Video-FF1744?style=for-the-badge&logo=youtube&logoColor=white" alt="Transmisión Video" />
-</p>
 
 ### 🔄 Automatización & Herramientas
 <p align="left">
